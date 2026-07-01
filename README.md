@@ -85,8 +85,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hasanjaved180598&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanjaved180598&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hasanjaved180598&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=hasanjaved180598&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanjaved180598&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
