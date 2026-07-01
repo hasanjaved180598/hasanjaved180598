@@ -19,7 +19,6 @@
 - 🧠 Self-taught in **Machine Learning & Deep Learning**, with a full project pipeline from theory to deployment
 - 🔭 Currently building at the intersection of **mobile development** and **applied AI/ML**
 - 🎯 Actively targeting hybrid **Flutter + AI/ML** roles — Open to work ✅
-- 👥 43 followers · 18 public repos and counting
 
 <br/>
 
