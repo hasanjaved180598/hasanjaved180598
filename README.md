@@ -59,6 +59,7 @@
 ### 🤖 AI / Machine Learning
 | Project | Description | Stack |
 |---|---|---|
+| [AI\_Agent\_With\_Tool\_Use](https://github.com/hasanjaved180598/AI_Agent_With_Tool_Use) | Autonomous ReAct agent that searches web, calculates, reads docs using LLaMA3 | LangChain, LLaMA3, Ollama, Streamlit |
 | [**Sentiment_Analysis_Api**](https://github.com/hasanjaved180598/Sentiment_Analysis_Api) | Fine-tuned transformer served as a production-style API | RoBERTa, FastAPI, Streamlit |
 | [**RAG_Document_Chatbot**](https://github.com/hasanjaved180598/RAG_Document_Chatbot) | Chat with your own documents using local LLM + vector search | LLaMA3, FAISS, LangChain, Streamlit |
 | [**Pneumonia_Detector**](https://github.com/hasanjaved180598/Pneumonia_Detector) | CNN model to detect pneumonia from chest X-rays (88% accuracy) | TensorFlow/Keras, CNN |
