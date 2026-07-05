@@ -16,7 +16,7 @@
 
 - 🎓 BCE from Bahria University, based in **Islamabad, Pakistan**
 - 📱 Flutter Developer with ~2 years of experience — specialized in **e-commerce & delivery apps**
-- 🧠 Self-taught in **Machine Learning & Deep Learning**, with a full project pipeline from theory to deployment
+- 🧠 Self-taught in **Machine Learning & Deep Learning**, with end-to-end projects spanning classical ML, deep learning, NLP, GenAI, and agentic AI
 - 🔭 Currently building at the intersection of **mobile development** and **applied AI/ML**
 - 🎯 Actively targeting hybrid **Flutter + AI/ML** roles — Open to work ✅
 
