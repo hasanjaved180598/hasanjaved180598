@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=200&section=header&text=Hasan%20Javed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%2FML%20Engineer%20in%20Progress&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=200&section=header&text=Hasan%20Javed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=650&height=60&lines=Flutter+Developer+from+Islamabad%2C+PK+%F0%9F%93%B1;Building+mobile+apps+%2B+exploring+AI%2FML+%F0%9F%A4%96;CV+%7C+NLP+%7C+RAG+%7C+Dart+%7C+Riverpod+%7C+Firebase;Open+to+Work+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=650&height=60&lines=Flutter+Dev+%E2%86%92+AI%2FML+Engineer+%7C+Islamabad%2C+PK+%F0%9F%93%B1;Building+AI%2FML+systems+%2B+mobile+apps+%F0%9F%A4%96;CV+%7C+NLP+%7C+RAG+%7C+Agents+%7C+Object+Detection;Open+to+Work+%E2%9C%85)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/hasanjaved1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hasan180598@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -47,6 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -65,7 +66,6 @@
 | [**Pneumonia_Detector**](https://github.com/hasanjaved180598/Pneumonia_Detector) | CNN model to detect pneumonia from chest X-rays (88% accuracy) | TensorFlow/Keras, CNN |
 | [**Credit_Card_Fraud_Detection_System**](https://github.com/hasanjaved180598/Credit_Card_Fraud_Detection_System) | Fraud detection on highly imbalanced transaction data (ROC-AUC 0.9783) | scikit-learn, Jupyter |
 | [**Sports_Person_Classifier**](https://github.com/hasanjaved180598/Sports_Person_Classifier) | Image classification pipeline with hyperparameter tuning | OpenCV, PyWavelets, SVM, Flask |
-| [**Handwritten_Digit_Recognizer**](https://github.com/hasanjaved180598/Handwritten_Digit_Recognizer) | Digit recognition model trained on MNIST | Python, TensorFlow |
 
 ### 📱 Flutter
 | Project | Description |
@@ -99,7 +99,7 @@
 <div align="center">
 
 ### 💬 Let's Connect
-I'm actively looking for **Flutter Developer** and **junior AI/ML** roles — feel free to reach out!
+I'm actively looking for **AI/ML Engineer** and **Flutter Developer** roles — feel free to reach out!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=100&section=footer" width="100%"/>
 
