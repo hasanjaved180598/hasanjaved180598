@@ -60,6 +60,7 @@
 ### 🤖 AI / Machine Learning
 | Project | Description | Stack |
 |---|---|---|
+| [**YOLOv8_Object_Detection**](https://github.com/hasanjaved180598/YOLOv8_Object_Detection) | Real-time object detection on 80 COCO classes served via FastAPI REST API | YOLOv8, FastAPI, Streamlit |
 | [AI\_Agent\_With\_Tool\_Use](https://github.com/hasanjaved180598/AI_Agent_With_Tool_Use) | Autonomous ReAct agent that searches web, calculates, reads docs using LLaMA3 | LangChain, LLaMA3, Ollama, Streamlit |
 | [**Sentiment_Analysis_Api**](https://github.com/hasanjaved180598/Sentiment_Analysis_Api) | Fine-tuned transformer served as a production-style API | RoBERTa, FastAPI, Streamlit |
 | [**RAG_Document_Chatbot**](https://github.com/hasanjaved180598/RAG_Document_Chatbot) | Chat with your own documents using local LLM + vector search | LLaMA3, FAISS, LangChain, Streamlit |
