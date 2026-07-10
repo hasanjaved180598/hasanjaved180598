@@ -65,7 +65,7 @@
 | [**Sentiment_Analysis_Api**](https://github.com/hasanjaved180598/Sentiment_Analysis_Api) | Fine-tuned transformer served as a production-style API | RoBERTa, FastAPI, Streamlit |
 | [**RAG_Document_Chatbot**](https://github.com/hasanjaved180598/RAG_Document_Chatbot) | Chat with your own documents using local LLM + vector search | LLaMA3, FAISS, LangChain, Streamlit |
 | [**Pneumonia_Detector**](https://github.com/hasanjaved180598/Pneumonia_Detector) | CNN model to detect pneumonia from chest X-rays (88% accuracy) | TensorFlow/Keras, CNN |
-| [**Credit_Card_Fraud_Detection_System**](https://github.com/hasanjaved180598/Credit_Card_Fraud_Detection_System) | Fraud detection on highly imbalanced transaction data (ROC-AUC 0.9783) | scikit-learn, Jupyter |
+| [**Credit_Card_Fraud_Detection_System**](https://github.com/hasanjaved180598/Credit_Card_Fraud_Detection_System) | Fraud detection on highly imbalanced transaction data (ROC-AUC 0.9783) — [🤗 Live Demo](https://huggingface.co/spaces/hasan180598/fraud-detection-system) | XGBoost, SMOTE, Streamlit |
 | [**Sports_Person_Classifier**](https://github.com/hasanjaved180598/Sports_Person_Classifier) | Image classification pipeline with hyperparameter tuning | OpenCV, PyWavelets, SVM, Flask |
 
 ### 📱 Flutter
